@@ -1,0 +1,115 @@
+# depslib dependency file v1.0
+1488565721 source:b:\=college=\coding\tubes\main.cpp
+	<iostream>
+	"doctor.h"
+	"relasi.h"
+	"pasien.h"
+
+1490022195 source:b:\=college=\coding\tubes\doctor.cpp
+	"doctor.h"
+
+1490021095 b:\=college=\coding\tubes\doctor.h
+	<iostream>
+
+1490022195 source:b:\=college=\coding\tubes\pasien.cpp
+	"pasien.h"
+
+1490021095 b:\=college=\coding\tubes\pasien.h
+	<iostream>
+
+1490022195 source:b:\=college=\coding\tubes\relasi.cpp
+	"relasi.h"
+
+1488562618 b:\=college=\coding\tubes\relasi.h
+	<iostream>
+	"doctor.h"
+	"pasien.h"
+
+1490057923 source:b:\=college=\coding\tubes\main2.cpp
+	<iostream>
+	"doctor.h"
+	"pasien.h"
+	"relasi.h"
+
+1490680191 source:d:\tubes\tubes\doctor.cpp
+	"doctor.h"
+
+1490669290 d:\tubes\tubes\doctor.h
+	<iostream>
+
+1490680282 source:d:\tubes\tubes\pasien.cpp
+	"pasien.h"
+
+1490669290 d:\tubes\tubes\pasien.h
+	<iostream>
+
+1490675576 source:d:\tubes\tubes\relasi.cpp
+	"relasi.h"
+
+1490680101 d:\tubes\tubes\relasi.h
+	<iostream>
+	"doctor.h"
+	"pasien.h"
+
+1490680386 source:d:\tubes\tubes\main2.cpp
+	<iostream>
+	"doctor.h"
+	"pasien.h"
+	"relasi.h"
+
+1490703212 source:c:\users\sager\downloads\tubes\tubes\doctor.cpp
+	"doctor.h"
+
+1490714347 c:\users\sager\downloads\tubes\tubes\doctor.h
+	<iostream>
+
+1490701059 source:c:\users\sager\downloads\tubes\tubes\pasien.cpp
+	"pasien.h"
+
+1490701059 c:\users\sager\downloads\tubes\tubes\pasien.h
+	<iostream>
+
+1490701059 source:c:\users\sager\downloads\tubes\tubes\relasi.cpp
+	"relasi.h"
+
+1490701059 c:\users\sager\downloads\tubes\tubes\relasi.h
+	<iostream>
+	"doctor.h"
+	"pasien.h"
+
+1490787068 source:c:\users\sager\downloads\tubes\tubes\main2.cpp
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	"doctor.h"
+	"pasien.h"
+	"relasi.h"
+
+1491041637 source:c:\users\sager\downloads\tubes dadak\tubes\doctor.cpp
+	"doctor.h"
+
+1491038812 c:\users\sager\downloads\tubes dadak\tubes\doctor.h
+	<iostream>
+
+1491049246 source:c:\users\sager\downloads\tubes dadak\tubes\main2.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	"doctor.h"
+	"pasien.h"
+	"relasi.h"
+
+1491038812 c:\users\sager\downloads\tubes dadak\tubes\pasien.h
+	<iostream>
+
+1491038812 c:\users\sager\downloads\tubes dadak\tubes\relasi.h
+	<iostream>
+	"doctor.h"
+	"pasien.h"
+
+1491041637 source:c:\users\sager\downloads\tubes dadak\tubes\pasien.cpp
+	"pasien.h"
+
+1491044597 source:c:\users\sager\downloads\tubes dadak\tubes\relasi.cpp
+	"relasi.h"
+
